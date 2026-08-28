@@ -1,1 +1,1 @@
-// user.js code goes in here
+console.log(localStorage.getItem("id"));
